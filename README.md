@@ -14,17 +14,16 @@ This application supports an interactive command line based shell. It can also a
 
 Functionalities
 ---------------
-Run this application by 
-The following are the example of commands supported:
-$java parking_lot //runs the program
-create_parking_lot, 6 //creates a parking lot with 6 slots
-park KA-01-HH-1234 White //allocates a parking slot number closest to the entry 
-leave 4 //Free up the parking slot number 4
-status //Get the status of the parking lot 
-registration_numbers_for_cars_with_colour White //utility functions that does as the name suggests
-slot_numbers_for_cars_with_colour White  //utility functions that does as the name suggests
-slot_number_for_registration_number KA-01-HH-1234  //utility functions that does as the name suggests
-exit //exit the program
+The following are the example of commands supported:||
+$java parking_lot //runs the program||
+create_parking_lot, 6 //creates a parking lot with 6 slots || 
+park KA-01-HH-1234 White //allocates a parking slot number closest to the entry || 
+leave 4 //Free up the parking slot number 4 || 
+status //Get the status of the parking lot || 
+registration_numbers_for_cars_with_colour White //utility functions that does as the name suggests ||
+slot_numbers_for_cars_with_colour White  //utility functions that does as the name suggests ||
+slot_number_for_registration_number KA-01-HH-1234  //utility functions that does as the name suggests ||
+exit //exit the program 
 
 
 
