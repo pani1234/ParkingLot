@@ -10,7 +10,7 @@ How to Invoke
 ---------------
 Download the file ParkingLot.zip from Git and extract it.
 Invoke the application by running the command "java parking_lot" from the location "ParkingLot/out/production/ParkingLot"
-This application supports an interactive command line based shell. It can also accept a file passed as a command line parameter with batch commands in it. 
+This application supports an interactive command line based shell. It can also accept a file passed as a command line parameter with batch commands in it, e.g "java parking_lot parking.txt"
 
 Functionalities
 ---------------
